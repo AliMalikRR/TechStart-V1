@@ -30,11 +30,11 @@ Technologies Used
     Recovery Services Vault
 
 Architecture Diagram
+<img width="1057" height="732" alt="TechStart-V1-Architecture" src="https://github.com/user-attachments/assets/8acce779-3ecb-4ba3-a5b7-6108eb968290" />
 
-See TechStart-V1-Architecture.png
 Documentation
-
 See TechStartLTD V1.pdf
+
 Skills Demonstrated
 
     Azure Administration
